@@ -1,4 +1,4 @@
-# [Leukemia data](https://web.stanford.edu/~hastie/CASI_files/DATA/leukemia.html)
+# [Leukemia dataset](https://web.stanford.edu/~hastie/CASI_files/DATA/leukemia.html)
 
 Gene expression measurements on 72 leukemia patients, 47 "ALL" (see section 1.2), 25 "AML".
 These data arise from the landmark Golub et al (1999) Science paper.
