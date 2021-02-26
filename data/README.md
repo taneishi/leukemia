@@ -1,4 +1,4 @@
-# [Leukemia dataset](https://web.stanford.edu/~hastie/CASI_files/DATA/leukemia.html)
+## [Leukemia dataset](https://web.stanford.edu/~hastie/CASI_files/DATA/leukemia.html)
 
 Gene expression measurements on 72 leukemia patients, 47 "ALL" (see section 1.2), 25 "AML".
 These data arise from the landmark Golub et al (1999) Science paper.
@@ -13,3 +13,7 @@ Disclaimer: these data come with a data analysis challenge.
 The columns of the two datasets are in different order.
 Furthermore, the genes in the big dataset have been transformed, with the exact transformation used lost in time.
 We also do not know the correspondence between the 3157 and 7128 genes.
+
+## Leukemia Expression Subset
+
+This dataset was taken from [Clustering](https://compgenomr.github.io/book/clustering-grouping-samples-based-on-their-similarity.html) in _Computational Genomics with R_.
